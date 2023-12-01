@@ -6,5 +6,5 @@
 * It has **_Context Class_** that holds a reference to the current state and expose methods to clients.
 * Useful to manage states in the applications and swtich between them.
 * Easy to maintian since each state is a different class and state-specific behavior is encapsulated in its respective class.
-* New states can beeasily added by writing an extra class for the new state.
+* New states can be easily added by writing an extra class for the new state.
 * E.g. States in a document, states in a game, or different modes in a GUI.
